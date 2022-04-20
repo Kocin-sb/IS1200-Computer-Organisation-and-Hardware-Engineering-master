@@ -24,9 +24,9 @@ The course is divided into six different modules, which for example include the 
 ## Project Expo
 ### This project won the award for greatest hardware project 
 
-[Please download to see Demo](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/IMG_2673.mov)
+[Please download to see Demo](https://github.com/Kocin-sb/IS1200-Computer-Organisation-and-Hardware-Engineering-master/tree/master/Images%20and%20Videos)
 
-[Winner](https://github.com/Kocin-sb/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/no1.png)
+[Winner](https://github.com/Kocin-sb/IS1200-Computer-Organisation-and-Hardware-Engineering-master/blob/master/Best%20Hardware%20Project%20Award.png)
 
 - Each group should consist of 2 students. Should be the same as the lab groups.
 - Student groups may collaborate, i.e., projects may be connected.
